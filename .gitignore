@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Raw data
+data/raw/
+
+# Large downloaded data
+data/rna_seq/
+data/interim/
+
+# Medical imaging
+*.dcm
+*.nii
+*.nii.gz
+
+# Jupyter
+.ipynb_checkpoints/
